@@ -7,8 +7,9 @@ DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,msftcomecttest.com
 DOMAIN-SUFFIX,dns.msftncsi.com
 DOMAIN-SUFFIX,ipv6.msftconnecttest.com
-DOMAIN-SUFFIX,immortalwrt.org
-DOMAIN-SUFFIX,mirrors.vsean.net
+DOMAIN-SUFFIX,immortalwrt.org,no-resolve
+DOMAIN-SUFFIX,mirrors.vsean.net,no-resolve
+DOMAIN-SUFFIX,speedtest.7cloud.us.kg,no-resolve
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,mirror
