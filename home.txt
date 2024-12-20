@@ -1,0 +1,3 @@
+# 域名关键字匹配
+DOMAIN-SUFFIX,gavinfly.us.kg
+DOMAIN-SUFFIX,3cloud.us.kg
