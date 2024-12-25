@@ -115,6 +115,8 @@ dns:
   nameserver:
     - 221.179.155.161
     - 221.179.155.177
+    - 2409:8000:2000:0:70::1
+    - 2409:8000:2000:0:170::1
   nameserver-policy:
     "rule-set:private_domain,cn_domain":
     - 221.179.155.161
