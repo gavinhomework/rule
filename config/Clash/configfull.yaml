@@ -122,10 +122,10 @@ dns:
     - 2409:8000:2000:0:70::1
     - 2409:8000:2000:0:170::1
     "rule-set:geolocation-!cn":
-      - "https://dns.cloudflare.com/dns-query"
-      - "https://dns.google/dns-query"
-      - 2001:4860:4860:0:0:0:0:8888
-      - 2001:4860:4860:0:0:0:0:8844
+    - "https://dns.cloudflare.com/dns-query"
+    - "https://dns.google/dns-query"
+    - 2001:4860:4860:0:0:0:0:8888
+    - 2001:4860:4860:0:0:0:0:8844
  
    
 proxies:
