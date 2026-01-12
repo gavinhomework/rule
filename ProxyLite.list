@@ -1,14 +1,15 @@
 # 代理补充列表
 
 # 域名后缀匹配
-DOMAIN-SUFFIX,qichiyu.com,♻️ 狮城智能
+DOMAIN-SUFFIX,qichiyu.com,♻️ 自动选择
 #DOMAIN-SUFFIX,chatgpt.com,♻️ 狮城智能
 DOMAIN-SUFFIX,browserleaks.com,♻️ 狮城智能
 DOMAIN-SUFFIX,ip.skk.moe,♻️ 狮城智能
 DOMAIN-SUFFIX,bulianglin.com,♻️ 狮城智能
 DOMAIN-SUFFIX,ip.ping0.cc,♻️ 狮城智能
 # 域名关键字匹配
-DOMAIN-KEYWORD,1e100
+DOMAIN-KEYWORD,1e100,♻️ 自动选择
+DOMAIN-KEYWORD,ping0,♻️ 自动选择
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
