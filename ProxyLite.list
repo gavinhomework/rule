@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,ip.ping0.cc,♻️ 狮城智能
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100,♻️ 自动选择
 DOMAIN-KEYWORD,ping0,♻️ 自动选择
+DOMAIN-KEYWORD,cloudflare,♻️ 自动选择
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
