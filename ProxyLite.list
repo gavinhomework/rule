@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,ip.ping0.cc,♻️ 狮城智能
 DOMAIN-KEYWORD,1e100,♻️ 自动选择
 DOMAIN-KEYWORD,ping0,♻️ 自动选择
 DOMAIN-KEYWORD,cloudflare,♻️ 自动选择
+DOMAIN-KEYWORD,gemini,🇯🇵 日本节点
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
